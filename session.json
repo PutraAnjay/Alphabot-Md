@@ -10,7 +10,7 @@
         "data": "CH7UaKcPMMKqnebP4BGzog7n7wzAifqPZwU7oXGpCVg="
       }
     },
-    "signedIdentityKey": {
+    "signedIdentitykey": {
       "private": {
         "type": "Buffer",
         "data": "MD4sgiLzLSqFsPMZCEKuahdHp4m5DvY7oegw8mmlO20="
